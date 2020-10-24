@@ -75,7 +75,7 @@ li {
 }
 
 .footer{
-	position: static;
+	position: relative;
 	left: 0; bottom: 0;
 	padding: 10px;
 	background: white;
